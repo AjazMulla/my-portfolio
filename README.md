@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Ajaz Ahemad's Portfolio
+
+This uses AWS and ReactJS.
